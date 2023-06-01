@@ -1,0 +1,22 @@
+html{
+  font-family: Arial, Helvetica, sans-serif;
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+.wrap{
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+}
+
+.heading{
+  margin-right: 10px;
+}
+
+.button{
+  margin-left: 10px;
+}
+
+

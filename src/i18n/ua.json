@@ -1,0 +1,30 @@
+{
+    "greeting" : "Привіт,",
+    "greetingNamePlaceholder": "Напиши своє ім'я",
+    "greetingTextPositive" : "Ось твої тасочки",
+    "greetingTextNegative" : "В тебе немає тасочок",
+    "filters":{
+        "showAll": "Показати усі",
+        "inProgress":"В роботі",
+        "done": "Зроблено"
+    },
+    "inProgress":"В роботі",
+    "done": "Зроблено",
+    "taskPlaceholders":{
+        "taskName": "Назва тасочки",
+        "taskDescription": "Опис тасочки"
+    },
+    "validation":"*Це поле обов'язкове",
+    "buttons":{
+        "saveTask": "Зберегти тасочку",
+        "cancel":"Відмінити",
+        "createTask":"Створити тасочку"
+    },
+    "deleteModal":"Ви дійсно хочете видалити цю тасочку?",
+    "settings":"Налаштування",
+    "lang": "Мова",
+    "background":"Фон",
+    "colors":"Кольори",
+    "images":"Зображення",
+    "noTasksMsg":"У тебе не має тасочок у цьому статусі"
+}
