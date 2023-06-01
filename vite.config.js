@@ -7,7 +7,7 @@ import ElementPlus from 'unplugin-element-plus/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: '/TaskList/',
+  base: '/',
   plugins: [vue(), ElementPlus({
     // options
   }),],

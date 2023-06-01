@@ -101,7 +101,7 @@
         }
 
         if (!localStorage.bg && !localStorage.bgColor) {
-          document.body.style.cssText = `background-image: url(/src/assets/sunset.jpg) !important`;
+          document.body.style.cssText = `background-image: url(/sunset.jpg) !important`;
         }
 
       },

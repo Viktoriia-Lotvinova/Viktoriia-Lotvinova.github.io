@@ -13,12 +13,12 @@ export default{
 
         return {
             images: [
-                "/src/assets/computer.jpg",
-                "/src/assets/forest.jpg",
-                "/src/assets/new-york.jpg",
-                "/src/assets/sea.jpg",
-                "/src/assets/sf.jpg",
-                "/src/assets/sunset.jpg",
+                "/computer.jpg",
+                "/forest.jpg",
+                "/new-york.jpg",
+                "/sea.jpg",
+                "/sf.jpg",
+                "/sunset.jpg",
             ],
         };
 
